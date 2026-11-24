@@ -72,7 +72,7 @@ flowchart LR
 | Project | Description | Focus |
 | :-- | :-- | :-- |
 | ✈️ **TRAVORA** | Real-time flight & baggage tracking platform | `UI/UX` |
-| 🌍 **KYX** | Sports pitch booking app | `UI/UX` |
+| ⚽ **KYX** | Sports pitch booking app | `UI/UX` |
 | 👟 **PUMA** | E-commerce redesign | `UI/UX` · `Front-End` |
 
 👉 See the full case studies on my [Portfolio](https://eyadtamim.github.io/portfolio/#) and [Behance](https://www.behance.net/eyadtamiim).
