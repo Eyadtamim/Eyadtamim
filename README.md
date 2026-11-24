@@ -92,7 +92,7 @@ flowchart LR
 
 ---
 
-## 🐍 Contribution Snake
+
 
 <div align="center">
 
