@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="110" viewBox="0 0 1000 110" role="img" aria-label="Footer wave">
+  <defs>
+    <linearGradient id="fbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="45%" stop-color="#1b1f4b"/>
+      <stop offset="100%" stop-color="#4a1d7a"/>
+    </linearGradient>
+    <clipPath id="fround"><rect width="1000" height="110" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#fround)">
+    <rect width="1000" height="110" fill="url(#fbg)"/>
+    <path fill="#58a6ff" fill-opacity="0.20"
+          d="M0,55 q125,-35 250,0 t250,0 t250,0 t250,0 t250,0 t250,0 t250,0 t250,0 V110 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="12s" repeatCount="indefinite"/>
+    </path>
+    <path fill="#d2a8ff" fill-opacity="0.22"
+          d="M0,72 q125,30 250,0 t250,0 t250,0 t250,0 t250,0 t250,0 t250,0 t250,0 V110 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="-500 0" to="0 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+    <path fill="#0d1117" fill-opacity="0.85"
+          d="M0,90 q125,-22 250,0 t250,0 t250,0 t250,0 t250,0 t250,0 t250,0 t250,0 V110 H0 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-500 0" dur="7s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>
