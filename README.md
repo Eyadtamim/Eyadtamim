@@ -1,11 +1,11 @@
 <!-- Header banner (animated wave) -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Eyad%20Tamim&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=UI%2FUX%20Designer%20%26%20MEAN%20Stack%20Developer&descSize=20&descAlignY=58" alt="Eyad Tamim banner" />
+<img src="assets/banner.svg" alt="Eyad Tamim - UI/UX Designer and MEAN Stack Developer" width="100%" />
 
 <!-- Animated typing text -->
 <a href="https://eyadtamim.github.io/portfolio/#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=640&height=45&lines=Hi%2C+I'm+Eyad+Tamim+%F0%9F%91%8B;UI%2FUX+Designer+%7C+Front-End+Developer;Designing+in+Figma%2C+building+with+Angular+%26+React;Moving+into+the+MEAN+Stack+%F0%9F%9A%80;Open+to+junior+UI%2FUX+%26+front-end+roles" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=Hi%2C+I'm+Eyad+Tamim+%F0%9F%91%8B;UI%2FUX+Designer+%7C+Front-End+Developer;Designing+in+Figma%2C+building+with+Angular+%26+React;Moving+into+the+MEAN+Stack+%F0%9F%9A%80;Open+to+junior+UI%2FUX+%26+front-end+roles" alt="Typing animation" />
 </a>
 
 <br/>
@@ -112,6 +112,6 @@ flowchart LR
 
 <a href="mailto:eyadtamiim@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-58a6ff?style=for-the-badge&logo=maildotru&logoColor=white" alt="Say hello" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="footer" />
+<img src="assets/footer.svg" alt="footer" width="100%" />
 
 </div>
