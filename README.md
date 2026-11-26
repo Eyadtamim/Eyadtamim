@@ -30,7 +30,7 @@
 
 - 🎨 I design in **Figma** and build responsive, pixel-accurate interfaces
 - ⚛️ Building with **Angular** and **React**, now going full-stack with the **MEAN stack**
-- 🎓 CS student (Aviation Information Systems), **Zagazig National University**
+- 🎓 CS gradute (Aviation Information Systems), **Zagazig National University**
 - 💼 Looking for a **junior UI/UX or front-end role** (on-site, hybrid or remote)
 
 ---
