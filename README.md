@@ -4,14 +4,14 @@
 <img src="assets/banner.svg" alt="Eyad Tamim - UI/UX Designer and MEAN Stack Developer" width="100%" />
 
 <!-- Animated typing text -->
-<a href="https://eyadtamim.github.io/portfolio/#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=Hi%2C+I'm+Eyad+Tamim+%F0%9F%91%8B;UI%2FUX+Designer+%7C+Front-End+Developer;Designing+in+Figma%2C+building+with+Angular+%26+React;Moving+into+the+MEAN+Stack+%F0%9F%9A%80;Open+to+junior+UI%2FUX+%26+front-end+roles" alt="Typing animation" />
+<a href="https://eyadtamim.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=800&height=45&lines=Hi%2C+I'm+Eyad+Tamim+%F0%9F%91%8B;UI%2FUX+Designer+%7C+Full-Stack+Developer;Designing+in+Figma%2C+building+with+Angular+%26+React;Moving+into+the+MEAN+Stack+%F0%9F%9A%80;Open+to+junior+UI%2FUX+%26+front-end+roles" alt="Typing animation" />
 </a>
 
 <br/>
 
 <!-- Social badges -->
-<a href="https://eyadtamim.github.io/portfolio/#"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
+<a href="https://eyadtamim.github.io"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.behance.net/eyadtamiim"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance" /></a>
 <a href="https://www.linkedin.com/in/eyad-tamim-4954a6381"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:eyadtamiim@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
@@ -30,7 +30,7 @@
 
 - 🎨 I design in **Figma** and build responsive, pixel-accurate interfaces
 - ⚛️ Building with **Angular** and **React**, now going full-stack with the **MEAN stack**
-- 🎓 CS gradute (Aviation Information Systems), **Zagazig National University**
+- 🎓 CS graduate (Aviation Information Systems), **Zagazig National University**
 - 💼 Looking for a **junior UI/UX or front-end role** (on-site, hybrid or remote)
 
 ---
@@ -75,7 +75,7 @@ flowchart LR
 | ⚽ **KYX** | Sports pitch booking app | `UI/UX` |
 | 👟 **PUMA** | E-commerce redesign | `UI/UX` · `Front-End` |
 
-👉 See the full case studies on my [Portfolio](https://eyadtamim.github.io/portfolio/#) and [Behance](https://www.behance.net/eyadtamiim).
+👉 See the full case studies on my [Portfolio](https://eyadtamim.github.io) and [Behance](https://www.behance.net/eyadtamiim).
 
 ---
 
